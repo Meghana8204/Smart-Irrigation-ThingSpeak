@@ -1,18 +1,15 @@
-# Smart-Irrigation-ThingSpeak
-IoT-based smart irrigation system using soil moisture sensors and ThingSpeak cloud monitoring. 5th semester mini-project.
-
-# 💧 Smart Irrigation System Using ThingSpeak
+#  Smart Irrigation System Using ThingSpeak
 
 An IoT-based project built during my 5th semester to automate irrigation using **soil moisture sensors** and real-time data visualization through the **ThingSpeak cloud platform**. The system detects the moisture level of the soil and activates a water pump only when necessary, helping save water and improve farming efficiency.
 --
 
-## 🌱 Project Objective
+##  Project Objective
 
 To reduce water waste in agricultural fields by automatically controlling irrigation based on real-time soil moisture data, and enable remote monitoring using **ThingSpeak**.
 
 ---
 
-## 🛠️ Components & Technologies Used
+##  Components & Technologies Used
 
 - **Arduino Uno** or **NodeMCU ESP8266**
 - **Soil Moisture Sensor**
@@ -23,7 +20,7 @@ To reduce water waste in agricultural fields by automatically controlling irriga
 
 ---
 
-## 🔁 How It Works
+##  How It Works
 
 1. The soil moisture sensor measures the water level in the soil.
 2. If the moisture is **below threshold**, the **water pump is automatically turned ON**.
@@ -32,7 +29,7 @@ To reduce water waste in agricultural fields by automatically controlling irriga
 
 ---
 
-## 📊 Features
+##  Features
 
 - Automated irrigation based on soil moisture level
 - Real-time data monitoring via ThingSpeak dashboard
@@ -41,16 +38,16 @@ To reduce water waste in agricultural fields by automatically controlling irriga
 
 ---
 
-## 🎓 Academic Details
+##  Academic Details
 
-- 📚 **Semester**: 5th Semester  
-- 🧑‍💻 **Project Type**: Mini Project  
-- 🏫 **Institution**: Navkis College of Engineering, Hassan  
-- 👩‍💻 **Team Size**: 4 members
+-  **Semester**: 5th Semester  
+- **Project Type**: Mini Project  
+-  **Institution**: Navkis College of Engineering, Hassan  
+-  **Team Size**: 4 members
 
 ---
 
-## 🧠 What I Learned
+##  What I Learned
 
 - Basics of IoT and sensor interfacing  
 - Using **ThingSpeak** for data logging and remote monitoring  
@@ -60,13 +57,13 @@ To reduce water waste in agricultural fields by automatically controlling irriga
 ---
 
 
-## ❌ Source Code
+##  Source Code
 
 > Code files and circuit designs are not available due to device reset. The project was successfully built and demonstrated on hardware.
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Add DHT11 for temperature and humidity sensing  
 - Integrate with mobile notification apps (e.g., Blynk)  
